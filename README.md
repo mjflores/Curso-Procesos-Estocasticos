@@ -8,7 +8,7 @@
   
    
 ## 3. Laboratorios
-  * 3.1 Guía 1:  [Contribution guidelines for this project](/home/deee/Dropbox/Clases/PE/Probabilidades/Parcial 1/1. Introduccion.pdf)
+  * 3.1 Guía 1:  [Contribution guidelines for this project](docs/CONTRIBUTING.md)
   * 3.2 Guía 2
   * 3.3 Guía 3
 ## 4. Trabajos
