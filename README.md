@@ -1,6 +1,6 @@
 # Curso de Procesos Estocásticos
 * 1. Objetivo del curso
-* 2. Contenido (Syllabus)
+** 2. Contenido (Syllabus)
   
   El contenido del curso es el siguiente:
 
