@@ -1,3 +1,4 @@
 # Curso de Procesos Estocásticos
-En el curso Procesos Estocásticos y Señales Aleatorias se sigue el siguiente contenido
+El curso de Procesos Estocásticos y Señales Aleatorias tiene el siguiente contenido:
+
 
