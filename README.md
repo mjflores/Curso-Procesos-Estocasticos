@@ -3,7 +3,10 @@
 ## 2. Contenido (Syllabus)
   
   *El contenido del curso es el siguiente:*
+  
    [GitHub Pages](https://pages.github.com/).
+   [Contribution guidelines for this project](docs/CONTRIBUTING.md)
+   
 ## 3. Laboratorios
   * 3.1 Guía 1
   * 3.2 Guía 2
