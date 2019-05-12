@@ -1,29 +1,30 @@
 # Curso de Procesos Estocásticos
-## Instructor
+## 1. Instructor
 * Marco Flores-Calero
-## 1. Objetivo del curso
-## 2. Contenido (Syllabus)
+## 2. Objetivo del curso
+## 3. Contenido (Syllabus)
   
   *El contenido del curso es el siguiente:*
   
    [GitHub Pages](https://pages.github.com/).
   
    
-## 3. Laboratorios
-  * 3.1 Guía 1:  [Contribution guidelines for this project](docs/CONTRIBUTING.md)
-  * 3.2 Guía 2
-  * 3.3 Guía 3
-## 4. Trabajos
-  * 4.1 Guía 1
+## 4. Laboratorios
+  * 4.1 Guía 1:  [Contribution guidelines for this project](docs/CONTRIBUTING.md)
   * 4.2 Guía 2
   * 4.3 Guía 3
-## 5. Exámenes
-  * 5.1 Examen 1
-  * 5.2 Examen 2
-  * 5.3 Examen 3
-## 6. Bibliografía
-   *  6.1  Libro1
-   *  6.2  Libro2
+## 5. Trabajos
+  * 5.1 Guía 1
+  * 5.2 Guía 2
+  * 5.3 Guía 3
+## 6. Exámenes
+  * 6.1 Examen 1
+  * 6.2 Examen 2
+  * 6.3 Examen 3
+## 7. Bibliografía
+   *  7.1  Principios de probabilidad, variables aleatorias y señales aleatorias: Peyton Peebles (2006)
+   *  7.2  Probability Random Variables and Stochastic Process: A. Papoulis and U. Pillai, 3rd Edition
+   *  7.3  Probability, Statistics, and Random Processes For Electrical Engineering: A. García-León, 3rd Edition
 
 
 
