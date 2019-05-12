@@ -1,4 +1,6 @@
 # Curso de Procesos Estocásticos
+## Instructor
+* Marco Flores-Calero
 ## 1. Objetivo del curso
 ## 2. Contenido (Syllabus)
   
